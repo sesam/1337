@@ -1,0 +1,53 @@
+commit cd3b0497c6da0c28b4abbf0fc531b2b6b4cdd39c
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Fri Jan 11 13:37:33 2019 +0100
+
+    Voting: improve hiding of out-of-sync (race condition)
+--
+Merge: 8ec5802 537e4f3
+Author: Sašo <saso@futourist.io>
+Date:   Fri Dec 14 13:37:10 2018 +0100
+
+    Merge branch 'master' of gitlab.com:futourist/rewrite
+--
+commit 8ec580222874550f53351faadfcff8c3da40eebb
+Author: Sašo <saso@futourist.io>
+Date:   Fri Dec 14 13:37:04 2018 +0100
+
+    Yarn lock update.
+--
+Merge: cb65a09 fd3b933
+Author: Matic <matic@futourist.io>
+Date:   Tue Dec 11 13:37:17 2018 +0100
+
+    Merge branch 'master' of gitlab.com:futourist/rewrite into Search
+--
+commit 1806a59a6ab1a28458743ac29838a0e5f015727d
+Author: Sašo <saso@futourist.io>
+Date:   Thu Nov 29 13:37:51 2018 +0100
+
+    Added permissions library.
+--
+commit 89f9ac857c02ee67c5ab18342b7df9ad1b669e30
+Author: Sašo <saso@futourist.io>
+Date:   Fri Nov 16 13:37:57 2018 +0100
+
+    Added tags.
+--
+commit adba8d8f5f706b6749326d648dbc667695e3cd93
+Author: Sašo <saso@futourist.io>
+Date:   Fri Nov 16 13:37:49 2018 +0100
+
+    Basic view should be clickable if provided onpress prop.
+--
+commit caeb59e78f2de2da233bcb05c9b2d40e203ffb84
+Author: Sašo <saso@futourist.io>
+Date:   Fri Nov 16 13:37:25 2018 +0100
+
+    Refactor.
+--
+commit bac6050bfb45a448556d5c14c7857caa6cd9426b
+Author: Sašo <saso@futourist.io>
+Date:   Fri Nov 16 13:37:01 2018 +0100
+
+    Added border bottom.

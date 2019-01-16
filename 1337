@@ -1,0 +1,4 @@
+#!/bin/bash
+# git log by default shows date/time as a iso8601-alike format, so the time is in the committers (authors) timezone, and that timezone is specified at the end
+# so we grep for 13:37 to find commits, then judge manually (for now) how leet the commit is
+(cd $1; git log | grep -2 " 13:37") > ./1337/findings/$1.log

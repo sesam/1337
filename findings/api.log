@@ -1,0 +1,5 @@
+commit c403522434e6bf9c2ee27b3f672f07c8415bdf03
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Mon Aug 13 13:37:32 2018 +0200
+
+    promised.sort bugfix default sort method + add Promise.reject if sort method undefined

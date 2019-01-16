@@ -1,0 +1,11 @@
+commit d23abd21ae77f5d4550e9e6e5a76f5e8eabf0ae3
+Author: G <G>
+Date:   Wed May 18 13:37:47 2011 +0200
+
+    Fixed a problem with seach not working, if first searching with current and than with custom location from SpotsActivity
+--
+commit 652a73f6e0bc7756b1a9d21be1f3f703910ddb96
+Author: G <G>
+Date:   Mon Jan 10 13:37:22 2011 +0100
+
+    Fixed an issue where the categories would not display the first time the application is run.

@@ -1,0 +1,209 @@
+commit d09c931126f7be60e943dca22e02c8b7496d80a0
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Fri Sep 29 13:37:27 2017 +0200
+
+    no Posten err rep
+--
+commit ab5286024aa14331a04737249c08a74ec60d7339
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Tue Jun 20 13:37:23 2017 +0200
+
+    no Europris try without proxy
+--
+commit e5c6acc656d12aaddd5ee8aefa850c3413151fda
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Wed Mar 30 13:37:57 2016 +0200
+
+    dk DanskeBank keyvalue once
+--
+commit 6c65a8d5cab0819650b46ca0b05bda08d6ee384e
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Tue Mar 29 13:37:57 2016 +0200
+
+    dk Danske Bank atm hours
+--
+commit 1cb411019b25ddebff94685f9eb814a5b7e5bfc9
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Mon Mar 28 13:37:57 2016 +0200
+
+    es Movistar err rep
+--
+commit 4d1a330d94cdba58555c03457feba099367bc490
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Wed Mar 16 13:37:57 2016 +0100
+
+    hr Tisak err rep
+--
+commit 5dc173ec709da62322a2a440e4f6b6d1f0345b4b
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Wed Mar 15 13:37:26 2017 +0100
+
+    hr Tisak err rep
+--
+commit 6ff9673c941f16272e4e236c79c397f7e22ef477
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Fri Nov 25 13:37:39 2016 +0100
+
+    fi Life
+--
+commit 7088489ec445aaca9a13f7fc8f53a23629fce973
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Mon Jun 13 13:37:58 2016 +0200
+
+    si Paketomati comment
+--
+commit be4096f4e5b9f52cb4ce31fbf5f80ed8d46fb9f3
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Mon Jun 13 13:37:17 2016 +0200
+
+    dk Statoil
+--
+commit 0161299b4f9b73211908a71470b5b9fe3709162d
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Mon May 30 13:37:53 2016 +0200
+
+    se Espressohouse fix
+--
+commit 172b5570418bd123215d7af186ac30eacfc0bdf0
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Tue Apr 19 13:37:50 2016 +0200
+
+    add ca from other repo
+--
+commit 827b406a5b3ef9f4e80f25d270c8a9f541de1f8b
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Tue Apr 19 13:37:34 2016 +0200
+
+    Revert "add ca from other repo"
+--
+commit c8cf583290ebc77a6f8be68e54c38e216ca9a14f
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Fri Apr 8 13:37:56 2016 +0200
+
+    si Tus err rep
+--
+commit 3c7f65098b5e5377dc460f7e84bee16fda9e03cf
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Mon Mar 7 13:37:31 2016 +0100
+
+    no Narvesen fix
+--
+commit 6dc0b240624181dd3284543e18f3451d471c90b8
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Fri Dec 25 13:37:51 2015 +0100
+
+    dk Meny rewrite hours
+--
+commit d696146af6d214e2b6d4c932d9bc24b66dc9c8bf
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Wed Jun 10 13:37:53 2015 +0200
+
+    dk Body Shop use ib
+--
+commit 01ded3eaa76710a2f0ec4d63126d7a08674eb49f
+Author: OC-ben <benjamin.stermecki@gmail.com>
+Date:   Wed May 27 13:37:17 2015 +0200
+
+    fi minimani from broken
+--
+commit 08f33bb952c9ad4c4abb139872d49d643661c2c2
+Author: OC-ben <benjamin.stermecki@gmail.com>
+Date:   Wed May 13 13:37:29 2015 +0200
+
+    no rema hday update
+--
+commit ec312e3187b450ee539cc1bd6b7a8dc61ea468ca
+Author: OC-ben <benjamin.stermecki@gmail.com>
+Date:   Thu Apr 23 13:37:40 2015 +0200
+
+    si zivex disbled beacuse source was removed
+--
+commit 00dcdcae76a227bbe119463f6f49fd2eb9612027
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Wed Apr 1 13:37:36 2015 +0200
+
+    no Fretex fix
+--
+commit aead0b9acd44c48e1fe60e83f22d5beff0481280
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Mon Mar 16 13:37:09 2015 +0100
+
+    be AXA
+--
+commit 51490a4dc009e7f351cfc97eadb386ba2a0068ee
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Fri Feb 27 13:37:33 2015 +0100
+
+    be Bent
+--
+commit 8ca3132d5c99796bc2d937de49e09726ebf8009c
+Author: JM <JM>
+Date:   Tue Feb 3 13:37:30 2015 +0100
+
+    dk marimekko: correct street
+--
+commit 93c9f28a08dea57ef52a1118207bd8cc6d55b5ca
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Mon Dec 29 13:37:37 2014 +0100
+
+    cleanup DK !Solid
+--
+commit bd2f142e9432401ed852576dc5312d8f384cd22e
+Author: JM <JM>
+Date:   Mon Dec 29 13:37:45 2014 +0100
+
+    si name: correct hours
+--
+commit 833e7f2af2e458b00e03ac4780f04b6aec755137
+Author: JM <JM>
+Date:   Tue Nov 4 13:37:08 2014 +0100
+
+    de: migros_ch, add street and city
+--
+commit ed8f7c7548d1914cc9bf63e750d1ed4be01e835c
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Mon Oct 27 13:37:14 2014 +0100
+
+    se: fix Rusta
+--
+commit 95a7e90f2669fe196103e59a6533fa495631c1a8
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Mon Oct 20 13:37:22 2014 +0200
+
+    se: ICA cleanups
+--
+commit 361054ca55a75e0c0b69f017bb4dce38b55e83fb
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Tue Oct 7 13:37:53 2014 +0200
+
+    no: fix some :tags and Vita :name
+--
+commit 4fb2f9a2899640939eec21cf70afb14d49447a03
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Fri Sep 26 13:37:31 2014 +0200
+
+    dk: Loop Fitness
+--
+commit d06679a161fc4bc5f4a20c86f4386d8571d0638a
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Thu Apr 17 13:37:33 2014 +0200
+
+    dk: Q8 error report
+--
+commit 695cda9fee58fb830ef65d5fc5f6b16fb97a0395
+Author: D <D>
+Date:   Mon Dec 2 13:37:13 2013 +0100
+
+    SI OMV KAMNIK HOURS FIX
+--
+commit 088c92388443051cc02557bb30d5dc5168c05c3c
+Author: D <D>
+Date:   Tue Aug 27 13:37:01 2013 +0200
+
+    Si hofer exceptions
+--
+commit 7085b9c3a019bb719d89ddfc21745768e36ac97d
+Author: D <D>
+Date:   Mon May 20 13:37:13 2013 +0200
+
+    DK: rema1000 fix

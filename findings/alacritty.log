@@ -1,0 +1,5 @@
+commit aa9c75ce163b6559934a24a61097272cd29372e3
+Author: Joe Wilm <joe@jwilm.com>
+Date:   Mon Jul 4 13:37:08 2016 -0700
+
+    Fix some debug printing in term

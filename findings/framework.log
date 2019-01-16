@@ -1,0 +1,29 @@
+commit e47e50b7c834ca19ed5ca6939c51c8a80a75bec7
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Tue May 24 13:37:06 2016 +0200
+
+    scrapercatalog: replace #entries and #find with #find_by_country and #find_entries (loop over find_by_country)
+--
+commit 286b50e559808c074e1f7b5f0aa27e3168909ad5
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Fri Mar 13 13:37:00 2015 +0100
+
+    dk hoursparser cleanup
+--
+commit 1668e15ab0dade7a9b009b5887e7d87d36f42fca
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Tue May 27 13:37:47 2014 +0200
+
+    no hoursparser correct Kr.Him holiday dates
+--
+commit 9dfe7831375f1c519c47e33cba9976c30adfadd4
+Author: Simon B <simon.bohlin@gmail.com>
+Date:   Tue Nov 12 13:37:52 2013 +0100
+
+    spotmatcher: set lat,lng before setting street, hopefully skipping unneeded geocoder calls
+--
+commit 57f0428e0159efe0fcdbba6cb609635ce0e32dcf
+Author: V <V>
+Date:   Fri Nov 9 13:37:21 2012 +0400
+
+    handle cookies in RAM

@@ -1,0 +1,5 @@
+commit c412bc6c6096a188b3bfa029089fc75da1159dbc
+Author: Quentin Le Sceller <q.lesceller@gmail.com>
+Date:   Thu Jun 14 13:37:21 2018 -0400
+
+    Fix empty candidate txs (#1168)
